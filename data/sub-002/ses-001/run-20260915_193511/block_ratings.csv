@@ -1,0 +1,7 @@
+subject_id,session_id,run_id,counterbalance_group,block_id,block_order,video_id,condition_label,condition_type,course_attention_rating,mental_effort,video_interest,video_difficulty,subtraction_compliance,subtraction_compliance_low_pct,subtraction_compliance_high_pct,subtraction_difficulty,reported_final_number,duration_sec,recorder_timestamp,device_sample_number
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,1,1,V1,B,bbbd_subtraction,4,6,4,2,20-30%,20,30,4,836,36.728,1789472856.7156258,145807
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,2,2,V2,A,focused,4,8,3,2,,,,,,14.826,1789473262.895075,247365
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,3,3,V3,B,bbbd_subtraction,4,6,4,2,20-30%,20,30,3,691,30.004,1789473690.06325,354157
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,4,4,V4,A,focused,3,6,3,2,,,,,,9.855,1789474084.5995982,452786
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,5,5,V5,B,bbbd_subtraction,3,4,4,2,10-20%,10,20,4,765,21.239,1789474564.045162,572657
+sub-002,ses-001,a4fe51e0-c707-4a4a-9599-f6e1c08a6329,G02,6,6,V6,A,focused,3,7,4,2,,,,,,10.104,1789474963.3995047,672500

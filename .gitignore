@@ -1,0 +1,10 @@
+# Keep the repository limited to algorithm-facing CSV exports.
+data/**
+!data/**/
+!data/**/*.csv
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
